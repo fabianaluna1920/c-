@@ -1,0 +1,6 @@
+1. clonar repositorio
+2. Creer nueno repositorio c++, editar
+3. crear branch llamada el mejor, editar
+4. copiar el contenido del archivo secuencia.txt en el sitio https://www.onlinegdb.com/online_c++_compilero e reemplazar el codigo del archivo con la secuencia de números al ejecutar el programa.
+5. Fusionar los cambios hechos
+6.agregar documento.xtx
